@@ -73,10 +73,7 @@ def initialize_rag_system():
     try:
         # Try different possible file paths
         possible_paths = [
-            "ocr_result.md",
-            "./ocr_result.md", 
-            "/app/ocr_result.md",
-            "data/ocr_result.md"
+            "ocr_result.md"
         ]
         
         md_path = None
