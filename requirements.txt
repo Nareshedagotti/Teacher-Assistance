@@ -7,3 +7,4 @@ regex
 sentence-transformers
 transformers
 torch
+qdrant-client
