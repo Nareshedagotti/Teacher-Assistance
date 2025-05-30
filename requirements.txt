@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+langchain
+langchain_community
+google-generativeai
+numpy
+regex
