@@ -4,3 +4,6 @@ langchain_community
 google-generativeai
 numpy
 regex
+sentence-transformers
+transformers
+torch
